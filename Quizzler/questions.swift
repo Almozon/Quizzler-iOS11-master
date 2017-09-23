@@ -12,7 +12,7 @@ class Question {
     
     let questionsText: String
     let answer: Bool
-    // com
+    // commmm
     init(text: String , correctAnswer: Bool) {
         questionsText = text
         answer = correctAnswer
