@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     var qestionNumber: Int = 0
     
     var score : Int = 0
-    
+    var mazin: String = ""
     
     @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
